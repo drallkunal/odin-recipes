@@ -1,0 +1,14 @@
+img {
+    border-radius: 8px;
+    border: 1px solid #ddd;
+    max-width: 100%;
+    height: auto;
+}
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
